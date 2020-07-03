@@ -1,8 +1,6 @@
 # Local epiphany infrastructure with Vagrant
 
-Notes
-
-Sooner or later you will notice `vc7e070r` box in configuration. To build that create epiphany repository machine separatelly. (TODO: add link) 
+Sooner or later you will notice `vc7e070r` box in configuration. To build that create epiphany repository machine separately as described in [here](https://github.com/mkyc/vagrant-centos-7-epiphany-070-repo). 
 
 # Project Content
 
